@@ -1,0 +1,4 @@
+name = Next/Previous by Taxonomy Term
+description = Next and Previous links for a taxonomy term
+core = 7.x
+configure = admin/config/content/nextprev
