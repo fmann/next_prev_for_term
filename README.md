@@ -1,4 +1,4 @@
-next-prev-by-vocabulary
+next_prev_for_term
 =======================
 
 DESCRIPTION
