@@ -19,7 +19,7 @@ INSTALLING
 
 CONFIGURING AND USING
 ---------------------
-1. Grant "Administer next/previous links" to yourself.
+1. Grant "Administer next/previous links" permission to one of your roles.
 2. Go to admin/config/content/nextprev 
 3. Set the options the way you want them.
 4. Enjoy!
