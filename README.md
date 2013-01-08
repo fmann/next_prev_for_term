@@ -4,7 +4,7 @@ next-prev-by-vocabulary
 DESCRIPTION
 -----------
 
-A Drupal 7 module that creates next and previous links within a vocabulary.  Based on code cribbed from [Drupal.org](http://drupal.org/node/45050#comment-5056854).
+A Drupal 7 module that creates next and previous links within a vocabulary.  Based on code cribbed from [Drupal.org](http://drupal.org/node/45050#comment-5056854).  I just added a few more options, like including the title or just the words "Next" and "Previous", and a little admin screen.
 
 REQUIREMENTS
 ------------
